@@ -1,0 +1,130 @@
+.corpo{
+    background-color:#D7BDE2 ;
+    margin: 0%;
+}
+.TITULO{
+    width: 210px;
+    height:  80px;
+    border: 1PX solid transparent;
+    border-radius: 9%;
+    margin-top: 4px;
+}
+.AREA1{
+    display: flex;
+    border: 1PX solid transparent;
+    border-radius: 30px;
+    background-color:#EBDEF0 ;
+    padding: 25PX;
+    text-align: center;
+    margin: 25px ;
+}
+.CABECALHO{
+    height: 90PX;
+    background-color:#AF7AC5 ;
+    text-align: center;
+  margin-bottom:20px ;
+  margin: 0;
+  width: 100%;
+} 
+.alcool{
+    border-radius: 15%;
+    border: 1px solid transparent;
+ }
+.txtalcool{
+   margin-left: 50px;
+    text-align: center;
+    font-size: xx-large;
+}
+h1{
+    text-align: center;
+}
+.BARRACENTRAL{
+    display: flex;
+    text-align: center;
+    background-color:#EBDEF0;
+   margin: 25PX;
+   justify-content: space-between;
+   border-radius: 15px;
+   font-size: larger ;
+}
+.TXT1{
+    text-align: center;
+    margin-left: 45PX;
+    background-color: #5271FF;
+   width: 150PX;
+   height: 30px;
+   padding-top: 7%;
+   border-radius: 15px;
+   margin: 5%;
+}
+.TXT2{
+    text-align: center;
+    background-color: #5271FF;
+   width: 150PX;
+   height: 30px;
+   padding-top: 7%;
+   border-radius: 15px;
+   margin: 5%;
+}
+.TXT3{
+    text-align: center;
+    background-color: #5271FF;
+   width: 150PX;
+   height: 30px;
+   padding-top: 7%;
+   border-radius: 15px;  
+   margin: 5%;
+}
+.TXT4{
+    text-align: center;
+    margin-right: 45PX;
+    background-color: #5271FF;
+   width: 150PX;
+   height: 30px;
+   padding-top: 7%;
+   border-radius: 15px;
+   margin: 5%;
+   margin-right: 15px;
+}
+.GALAO{
+    width: 300PX;
+    height: 320PX;
+    padding: 10px;
+   margin-top: 30px;
+    border-radius: 30px;
+}
+.AREA2{
+    display: flex;
+    text-align: center;
+    background-color: #EBDEF0;
+    margin: 25px;
+    border-radius: 30px;
+    font-size: x-large;
+}
+.TEXTO1{
+    padding: 10PX;
+}
+.TEXTO2{
+    padding: 10PX;
+}
+.wha{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    margin: 10px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.rodape{
+    background-color: #AF7AC5;
+    display: flex;
+    justify-content: space-between;
+}
+.whats{
+    display: flex;
+    padding: 0%;
+    margin-bottom: 0%;
+}
+.email{
+    padding-right: 15px;
+}
